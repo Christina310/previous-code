@@ -125,6 +125,7 @@ fig.show()
 ##Revenue increases with price. As the value of revenue elasticity changes from positive to negative and becomes more negative, it indicates that revenue decreases as the price of goods increases.
 ##The shift from positive to negative revenue elasticity corresponds to price elasticity becoming more elastic.
 
+##I make some comments for this code file.
 
 
 
